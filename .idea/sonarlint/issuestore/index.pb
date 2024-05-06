@@ -19,3 +19,15 @@ M
 ,src/lang/object/poly/ObjectPolyExample2.java,5/3/5383878735a7cc5f0aa92582e703ea8fe5c38905
 [
 +src/lang/object/tostring/ToStringMain1.java,d/0/d06e11eb162ab8a6ea75ac54cb72ca3be4bcff0e
+R
+"src/lang/object/equals/UserV1.java,2/2/2254b754bdd0b573ae4dcff10255ed97449ccc43
+X
+(src/lang/object/equals/EqualsMainV1.java,4/6/4696b6de0fafff65d44b11c2f1bb7c8f1ffbdf4e
+R
+"src/lang/object/equals/UserV2.java,3/d/3d246f88dd8a458a84de128483fcdd9a7c712488
+X
+(src/lang/object/equals/EqualsMainV2.java,f/8/f88a6116190c5d68173df66a0ba5f2a745fb949a
+W
+'src/lang/object/test/RectangleMain.java,0/3/0327581b5c4024514756238cad0c8a1cb28530a8
+S
+#src/lang/object/test/Rectangle.java,c/b/cbd39c8f8417a36feddcbd53bfc7a49889e4c1d0
