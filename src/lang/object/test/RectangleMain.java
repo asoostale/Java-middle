@@ -10,7 +10,7 @@ public class RectangleMain {
         System.out.println(rec1 == rec2);
         System.out.println(rec1.equals(rec2));
 
-        
+
 
     }
 }
