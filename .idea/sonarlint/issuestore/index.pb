@@ -31,3 +31,13 @@ W
 'src/lang/object/test/RectangleMain.java,0/3/0327581b5c4024514756238cad0c8a1cb28530a8
 S
 #src/lang/object/test/Rectangle.java,c/b/cbd39c8f8417a36feddcbd53bfc7a49889e4c1d0
+G
+src/lang/immutable.java,6/0/6017af6e4dfee9e1fb7a4931f8b5829e4a42a8cd
+]
+-src/lang/immutable/address/PrimitiveMain.java,3/1/31eb65e868032f05bfbe180204b6f6935fb67003
+W
+'src/lang/immutable/address/Address.java,f/e/fea014906dad92011056abf787befebef877fe11
+Z
+*src/lang/immutable/address/RefMain1_1.java,4/8/488ae5fcdb7b4b699c5ed67f2d72704cb6db9970
+`
+0src/lang/immutable/address/ImmutableAddress.java,d/6/d667d1d5eed34da304d4539422f5c7b66153942e
