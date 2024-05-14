@@ -1,0 +1,13 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 4 times.(ÛªÄ´ÿÿÿÿÿ8µºÿª÷1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(˜Ìí¼8ò†ùª÷1
+B
+java:S2129" Remove this "String" constructor(ÛªÄ´ÿÿÿÿÿ8Þºøª÷1
+=
+java:S2129" Remove this "String" constructor(Î¤ò¼8Þºøª÷1
+G	java:S106
+"+Replace this use of System.out by a logger.(éè÷8¤žûª÷1
+L	java:S106"+Replace this use of System.out by a logger.(Ì¬Öšüÿÿÿÿ8¾ºÿª÷1
+G	java:S106"+Replace this use of System.out by a logger.(çËØ8ËÚ…«÷1

@@ -1,0 +1,13 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ğü‡µ8™¶·ª÷1
+B
+java:S2129" Remove this "String" constructor(æÓç­ÿÿÿÿÿ8 ¶·ª÷1
+G	java:S106"+Replace this use of System.out by a logger.(Ğü‡µ8¡¶·ª÷1
+F	java:S106"+Replace this use of System.out by a logger.(Êú—N8¡¶·ª÷1
+G	java:S106"+Replace this use of System.out by a logger.(ó…‘8¢¶·ª÷1
+L	java:S106"+Replace this use of System.out by a logger.(°Ì»¸úÿÿÿÿ8¢¶·ª÷1
+K
+java:S2201"/The return value of "toUpperCase" must be used.(´És8õ¹ª÷1
+R
+java:S1128"6Remove this unused import 'lang.object.equals.UserV2'.(É§¹)8õ¹ª÷1
