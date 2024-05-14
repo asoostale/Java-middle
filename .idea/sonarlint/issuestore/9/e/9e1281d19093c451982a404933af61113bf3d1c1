@@ -1,0 +1,16 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Õùóªÿÿÿÿÿ8³—Ò×ö1
+L	java:S106"+Replace this use of System.out by a logger.(Õùóªÿÿÿÿÿ8½—Ò×ö1
+F	java:S106"+Replace this use of System.out by a logger.(ãğ»8¾—Ò×ö1
+L	java:S106"+Replace this use of System.out by a logger.(ÍİÓªùÿÿÿÿ8¿—Ò×ö1
+L	java:S106"+Replace this use of System.out by a logger.(Çµß§úÿÿÿÿ8À—Ò×ö1
+G	java:S106"+Replace this use of System.out by a logger.(çåµ8À—Ò×ö1
+G	java:S106"+Replace this use of System.out by a logger.(¡™µ™8Á—Ò×ö1
+I
+java:S2201",The return value of "toString" must be used.(‚¾çè8Á—Ò×ö1
+a
+java:S1858"D"a" is already a string, there's no need to call "toString()" on it.(‚¾çè8Â—Ò×ö1
+G	java:S106!"+Replace this use of System.out by a logger.(áÂª8ÓĞÒ×ö1
+a
+java:S1858!"D"a" is already a string, there's no need to call "toString()" on it.(áÂª8ÔĞÒ×ö1

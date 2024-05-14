@@ -13,5 +13,22 @@ public class EqualsMainV1 {
          * 즉 userV1 == userV2가 됨.
          * 즉 equals() 메서드를 재정의 해야한다.
          */
+
+        String a = "안녕";
+        String b = "안녕";
+        System.out.println(a.toString());
+        System.out.println(b.toString());
+
+        System.out.println(a == b);
+        System.out.println(a.equals(b));
+
+        int ab = 1;
+        int bc = 1;
+
+
+
+
+
+
     }
 }

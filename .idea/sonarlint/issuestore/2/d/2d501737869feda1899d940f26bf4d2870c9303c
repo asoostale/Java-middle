@@ -1,0 +1,15 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "exam4".(ú‰å8óñµÚö1
+[
+java:S1854"9Remove this useless assignment to local variable "exam3".(É¤Âşÿÿÿÿ8±ï¶Úö1
+G	java:S106"+Replace this use of System.out by a logger.(ÿ–ÖŠ8›¾´Úö1
+L	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8›¾´Úö1
+L	java:S106"+Replace this use of System.out by a logger.(½ÄÌÆıÿÿÿÿ8›¾´Úö1
+G	java:S106"+Replace this use of System.out by a logger.(¶³Ğ—8›¾´Úö1
+L
+java:S1481"*Remove this unused "exam3" local variable.(É¤Âşÿÿÿÿ8³ï¶Úö1
+G
+java:S1481"*Remove this unused "exam4" local variable.(ú‰å8öñµÚö1
+L	java:S106"+Replace this use of System.out by a logger.(úÖ¿æıÿÿÿÿ8œ¾´Úö1
+L	java:S106"+Replace this use of System.out by a logger.(×ªƒÎıÿÿÿÿ8öñµÚö1

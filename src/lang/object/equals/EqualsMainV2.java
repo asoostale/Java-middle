@@ -8,6 +8,12 @@ public class EqualsMainV2 {
         System.out.println("identity(동일성) = " + (userV1 == userV2));
         System.out.println("equals(동등성) = " + (userV1.equals(userV2)));
 
+        String a = "안녕";
+        String b = "안녕";
+        System.out.println(a == b);
+        System.out.println(a.equals(b));
+
+
 
     }
 }

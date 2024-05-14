@@ -1,3 +1,17 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(Ë´Ş¶8œ˜Šãô1
-G	java:S106	"+Replace this use of System.out by a logger.(óÏ÷÷8œ˜Šãô1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(†Á¸ÿÿÿÿÿ8¿¾Î¼ö1
+G	java:S106"+Replace this use of System.out by a logger.(Ë´Ş¶8Æ¾Î¼ö1
+G	java:S106	"+Replace this use of System.out by a logger.(óÏ÷÷8Æ¾Î¼ö1
+G	java:S106"+Replace this use of System.out by a logger.(áÂª8Ç¾Î¼ö1
+a
+java:S1858"D"a" is already a string, there's no need to call "toString()" on it.(áÂª8Ç¾Î¼ö1
+L	java:S106"+Replace this use of System.out by a logger.(ó•·øÿÿÿÿ8Ç¾Î¼ö1
+f
+java:S1858"D"b" is already a string, there's no need to call "toString()" on it.(ó•·øÿÿÿÿ8Ç¾Î¼ö1
+L	java:S106"+Replace this use of System.out by a logger.(†Á¸ÿÿÿÿÿ8Ç¾Î¼ö1
+L	java:S106"+Replace this use of System.out by a logger.(Çµß§úÿÿÿÿ8Ç¾Î¼ö1
+D
+java:S1481"'Remove this unused "ab" local variable.(‘ÊëÄ8È¾Î¼ö1
+D
+java:S1481"'Remove this unused "bc" local variable.(Šü”Ó8È¾Î¼ö1

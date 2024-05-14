@@ -1,0 +1,7 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "twoArray".(¬ÉËŒşÿÿÿÿ8ÿÑ¯¯ö1
+N
+java:S1197",Move the array designators [][] to the type.(¬ÉËŒşÿÿÿÿ8áÒ­¯ö1
+O
+java:S1481"-Remove this unused "twoArray" local variable.(¬ÉËŒşÿÿÿÿ8€Ò¯¯ö1

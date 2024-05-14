@@ -31,8 +31,6 @@ W
 'src/lang/object/test/RectangleMain.java,0/3/0327581b5c4024514756238cad0c8a1cb28530a8
 S
 #src/lang/object/test/Rectangle.java,c/b/cbd39c8f8417a36feddcbd53bfc7a49889e4c1d0
-G
-src/lang/immutable.java,6/0/6017af6e4dfee9e1fb7a4931f8b5829e4a42a8cd
 ]
 -src/lang/immutable/address/PrimitiveMain.java,3/1/31eb65e868032f05bfbe180204b6f6935fb67003
 W
@@ -41,3 +39,11 @@ Z
 *src/lang/immutable/address/RefMain1_1.java,4/8/488ae5fcdb7b4b699c5ed67f2d72704cb6db9970
 `
 0src/lang/immutable/address/ImmutableAddress.java,d/6/d667d1d5eed34da304d4539422f5c7b66153942e
+T
+$src/lang/immutable/address/Prac.java,d/e/de683de3999bf0d548fc523f94e2f0f08aa5ccbb
+X
+(src/lang/immutable/address/MemberV1.java,7/a/7a297c46debb2d97203a5c659dccc0d2e78c3d92
+Z
+*src/lang/immutable/address/MemberMain.java,9/e/9e1281d19093c451982a404933af61113bf3d1c1
+R
+"src/lang/string/CharArrayMain.java,2/d/2d501737869feda1899d940f26bf4d2870c9303c
