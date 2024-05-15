@@ -1,0 +1,12 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "testNumber".(έν¨8πΊΡÒχ1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(ΐ‹•ύÿÿÿÿ8ρΊΡÒχ1
+G	java:S106"+Replace this use of System.out by a logger.(Ξ άρ8φΊΡÒχ1
+L	java:S106
+"+Replace this use of System.out by a logger.(ήÒ—όÿÿÿÿ8χΊΡÒχ1
+H
+java:S1481"&Remove this unused "i" local variable.(ΐ‹•ύÿÿÿÿ8χΊΡÒχ1
+L
+java:S1481"/Remove this unused "testNumber" local variable.(έν¨8χΊΡÒχ1
