@@ -9,4 +9,7 @@ public class ClassMain {
         Hello hello =(Hello) helloClass.getDeclaredConstructor().newInstance();
         String re = hello.hello();
         System.out.println("result = " + re);
+
+        System.out.println(System.getProperty("java.version"));
+
     }}
