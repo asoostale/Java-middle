@@ -69,11 +69,21 @@ b
 2src/lang/string/builder/LoopStringBuilderMain.java,6/0/6000e6bff6f321e566b2d0cb018e63230ac83729
 Y
 )src/lang/string/chainning/ValueAdder.java,0/f/0f39cc0a01d4a285cb9dcf1ac2a0889276f7bdd1
-c
-3src/lang/string/chainning/MethodChainningMain1.java,5/f/5f6eaaa475598fc90180aac5eab24c4e1045e71f
 b
 2src/lang/string/chainning/MethodChainingMain1.java,9/2/92f7b4a416a40365be9a8407018568891eb1fd73
 b
 2src/lang/string/chainning/MethodChainingMain2.java,0/f/0f42b03b331fdf8a686bf82063bfb08f6748d626
 b
 2src/lang/string/chainning/MethodChainingMain3.java,5/b/5b9861ab33a5782c19c42066164e1085146d4798
+Z
+*src/lang/wrapper/MyIntegerMethodMain0.java,6/f/6f9e7eb5ae34965ae067e10c63c97f8644a2d972
+O
+src/lang/wrapper/MyInteger.java,d/9/d9017b7fa9eb1d5cca14dc49df6349696e147b60
+Z
+*src/lang/wrapper/MyIntegerMethodMain1.java,3/c/3ce1d4312bf3f8414b7cfff06cc80e4831c9eacd
+X
+(src/lang/wrapper/MyIntegerNullMain0.java,8/f/8f7e90a5e416623d23f149d1c4fb8f1cdb56107b
+X
+(src/lang/wrapper/WrapperVsPrimitive.java,6/2/623d424c063613aea32aca83824c7dbec8863da6
+Q
+!src/lang/clazz/ClassMetaMain.java,b/9/b98d6d4dfb23ebe8971b93a34acf938dbabc4cd4

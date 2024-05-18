@@ -1,0 +1,19 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(’Ëú‹8Ö™ıÓ÷1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(³Öòûÿÿÿÿ8 ™Ô÷1
+S
+java:S1854"6Remove this useless assignment to local variable "ii".(…˜íÇ8ÿ‰…Ô÷1
+L	java:S106"+Replace this use of System.out by a logger.(øÈ„ıøÿÿÿÿ8İ™ıÓ÷1
+B
+java:S2129	" Remove this "String" constructor(ôÌÇşÿÿÿÿÿ8Ş™ıÓ÷1
+B
+java:S2129
+" Remove this "String" constructor(ËƒæÆûÿÿÿÿ8Ş™ıÓ÷1
+G	java:S106"+Replace this use of System.out by a logger.(’Ëú‹8ß™ıÓ÷1
+L	java:S106"+Replace this use of System.out by a logger.(â’â¨ùÿÿÿÿ8ß™ıÓ÷1
+D
+java:S1481"'Remove this unused "ii" local variable.(…˜íÇ8‚Š…Ô÷1
+H
+java:S1481"&Remove this unused "i" local variable.(³Öòûÿÿÿÿ8£™Ô÷1

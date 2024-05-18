@@ -1,0 +1,23 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(¼¥Ã’ýÿÿÿÿ8£«¿Ô÷1
+L
+java:S3740"/Provide the parametrized type for this generic.(Î–ªÜ8¤Æ¿Ô÷1
+Q
+java:S3740"/Provide the parametrized type for this generic.(²“ŽÜüÿÿÿÿ8óí¿Ô÷1
+\
+java:S1854":Remove this useless assignment to local variable "clazz2".(²“ŽÜüÿÿÿÿ8ï’»Ô÷1
+W
+java:S1854":Remove this useless assignment to local variable "clazz1".(Î–ªÜ8»ôºÔ÷1
+[
+java:S1854"9Remove this useless assignment to local variable "clazz".(¼¥Ã’ýÿÿÿÿ8¼ôºÔ÷1
+L
+java:S1481"*Remove this unused "clazz" local variable.(¼¥Ã’ýÿÿÿÿ8¼ôºÔ÷1
+]
+java:S2133"@Remove this object instantiation and use "String.class" instead.(Î–ªÜ8¼ôºÔ÷1
+=
+java:S2129" Remove this "String" constructor(Î–ªÜ8¾ôºÔ÷1
+H
+java:S1481"+Remove this unused "clazz1" local variable.(Î–ªÜ8¿ôºÔ÷1
+M
+java:S1481"+Remove this unused "clazz2" local variable.(²“ŽÜüÿÿÿÿ8©«¿Ô÷1
