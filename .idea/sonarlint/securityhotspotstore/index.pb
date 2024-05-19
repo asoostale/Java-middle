@@ -91,3 +91,11 @@ I
 src/lang/clazz/Hello.java,7/2/7261c208ee9f3851a448a2b9cd54cf961d6ca573
 M
 src/lang/clazz/ClassMain.java,0/0/00177ff560a0a4f8c7cf213abe2ac55b030db2eb
+M
+src/lang/clazz/ArrayTest.java,9/b/9b783f403266cf36d3b6b3657a39066a92d67772
+H
+src/lang/clazz/Inf1.java,4/0/40e3fefbc5d1fcfe099f778eb9d9691b356bdc3f
+H
+src/lang/clazz/Demo.java,7/8/7873047595b79cc26b5b2841954aa2edfd69b076
+H
+src/lang/clazz/Inf2.java,f/7/f70316aac8bf534f233e488f30133b401f98fb63

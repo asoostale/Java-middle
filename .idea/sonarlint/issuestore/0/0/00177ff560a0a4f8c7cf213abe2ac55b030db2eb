@@ -1,7 +1,7 @@
 
 Q
 java:S3740"/Provide the parametrized type for this generic.(Ó± âşÿÿÿÿ8´ÆÖİø1
-L	java:S106"+Replace this use of System.out by a logger.(ê»¯Ïşÿÿÿÿ8ºÆÖİø1
-G	java:S106"+Replace this use of System.out by a logger.(ìÅ‚Ö8ºÆÖİø1
-Z
-java:S1128"=Remove this unused import 'java.awt.event.HierarchyListener'.(ö§÷8ºÆÖİø1
+V
+java:S1854	"9Remove this useless assignment to local variable "hello".(ø‹ò´8ÏúÉ÷ø1
+G
+java:S1481	"*Remove this unused "hello" local variable.(ø‹ò´8ĞúÉ÷ø1

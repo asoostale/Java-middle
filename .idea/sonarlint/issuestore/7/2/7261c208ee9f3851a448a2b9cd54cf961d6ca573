@@ -1,0 +1,14 @@
+
+o
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(ÃáÄ²ûÿÿÿÿ8ŞÊ÷ø1
+I
+java:S1444"'Make this "public static a" field final(ÃáÄ²ûÿÿÿÿ8ŞÊ÷ø1
+X
+java:S1854"6Remove this useless assignment to local variable "pi".(œêò´ûÿÿÿÿ8ì ‘÷ø1
+R
+java:S1854"5Remove this useless assignment to local variable "b".(çŞ§¼8Í¶÷ø1
+C
+java:S1481"&Remove this unused "b" local variable.(çŞ§¼8Î¶÷ø1
+I
+java:S1481"'Remove this unused "pi" local variable.(œêò´ûÿÿÿÿ8í ‘÷ø1
+L	java:S106	"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8í ‘÷ø1
