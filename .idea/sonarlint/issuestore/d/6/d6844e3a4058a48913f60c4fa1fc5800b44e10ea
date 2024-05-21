@@ -1,0 +1,22 @@
+
+S
+java:S1854'"6Remove this useless assignment to local variable "i3".(Œ³ğÜ8”¹“Ìù1
+U
+java:S1854!"8Remove this useless assignment to local variable "tes2".(Ş¹è«8”¹“Ìù1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(‚ŞßÎüÿÿÿÿ8”¹“Ìù1
+G	java:S106"+Replace this use of System.out by a logger.(íŒ¬8•¹“Ìù1
+F	java:S106"+Replace this use of System.out by a logger.(²ÏË8•¹“Ìù1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8•¹“Ìù1
+G	java:S106"+Replace this use of System.out by a logger.(ØÜ£š8•¹“Ìù1
+H
+java:S1481"&Remove this unused "i" local variable.(‚ŞßÎüÿÿÿÿ8•¹“Ìù1
+V
+java:S2130!"9Use "Integer.parseInt" for this string-to-int conversion.(Ş¹è«8–¹“Ìù1
+F
+java:S1481!")Remove this unused "tes2" local variable.(Ş¹è«8–¹“Ìù1
+V
+java:S2130$"9Use "Integer.parseInt" for this string-to-int conversion.(ÎıÌ¯8–¹“Ìù1
+G	java:S106%"+Replace this use of System.out by a logger.(èÎğ›8–¹“Ìù1
+D
+java:S1481'"'Remove this unused "i3" local variable.(Œ³ğÜ8–¹“Ìù1
