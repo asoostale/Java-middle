@@ -1,7 +1,20 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(à¦ò»úÿÿÿÿ8Ñ‘Êù1
-L	java:S106"+Replace this use of System.out by a logger.(¹Æ¿¦ıÿÿÿÿ8Ñ‘Êù1
+X
+java:S1854#";Remove this useless assignment to local variable "result5".(›é–ö8® ¿Êù1
+X
+java:S1854";Remove this useless assignment to local variable "result2".(êä¿Á8ãÀÁÊù1
+L	java:S106"+Replace this use of System.out by a logger.(à¦ò»úÿÿÿÿ8´§ºÊù1
+L	java:S106"+Replace this use of System.out by a logger.(¹Æ¿¦ıÿÿÿÿ8´§ºÊù1
 |
-java:S2159"ZRemove this call to "equals"; comparisons between a type and an array always return false.(¹Æ¿¦ıÿÿÿÿ8Ñ‘Êù1
-G	java:S106"+Replace this use of System.out by a logger.(Êşì®8Ñ‘Êù1
-L	java:S106"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8Ñ‘Êù1
+java:S2159"ZRemove this call to "equals"; comparisons between a type and an array always return false.(¹Æ¿¦ıÿÿÿÿ8´§ºÊù1
+G	java:S106"+Replace this use of System.out by a logger.(Êşì®8´§ºÊù1
+L	java:S106"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8´§ºÊù1
+L	java:S106"+Replace this use of System.out by a logger.(ßÚäëøÿÿÿÿ8´§ºÊù1
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ş€ÁÚıÿÿÿÿ8´§ºÊù1
+I
+java:S1481",Remove this unused "result2" local variable.(êä¿Á8åÀÁÊù1
+I
+java:S1481#",Remove this unused "result5" local variable.(›é–ö8° ¿Êù1
+L	java:S106("+Replace this use of System.out by a logger.(Å›¾Öøÿÿÿÿ8ÖëÁÊù1
+G	java:S106*"+Replace this use of System.out by a logger.(‡ÑİÍ8³‚ÃÊù1
