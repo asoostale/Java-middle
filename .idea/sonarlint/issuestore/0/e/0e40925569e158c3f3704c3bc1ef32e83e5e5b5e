@@ -1,0 +1,7 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦ä”8ºÀÍÍù1
+V
+java:S1854"9Remove this useless assignment to local variable "price".(öÜß™8ü™ØÍù1
+G
+java:S1481"*Remove this unused "price" local variable.(öÜß™8ı™ØÍù1
+X	java:S125"<This block of commented-out lines of code should be removed.(ó´ğ×8®ê×Íù1
