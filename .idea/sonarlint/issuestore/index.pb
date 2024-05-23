@@ -131,3 +131,11 @@ X
 (src/enumeration/ex2/ClassGradeEx2_1.java,7/1/716286aad3a4e18e8bbe4ef43f0438454faf3f0c
 X
 (src/enumeration/ex2/ClassGradeEx2_2.java,0/e/0e40925569e158c3f3704c3bc1ef32e83e5e5b5e
+N
+src/enumeration/ex3/Grade.java,c/e/ce19144c4c0925f3debeb75b36f4cd81b9e137ae
+T
+$src/enumeration/ex3/EnumRefMain.java,e/c/ec6a2bf22100574cc3cc1588743e152f077a9149
+X
+(src/enumeration/ex3/DiscountService.java,1/1/1144084ad70a5ddc2571f59851ad91b75f68ab0e
+X
+(src/enumeration/ex3/ClassGradeEx3_2.java,e/4/e49763a44a63721273012d5b409d34b14f8bfe55

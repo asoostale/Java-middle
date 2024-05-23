@@ -1,0 +1,7 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "result = " 3 times.(ñİÇÿ8¼Ü‹¥ú1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õûã8‰Ê„¥ú1
+G	java:S106"+Replace this use of System.out by a logger.(ñİÇÿ8É…¥ú1
+L	java:S106"+Replace this use of System.out by a logger.(¹­¨­øÿÿÿÿ8ÂÜ‹¥ú1
+L	java:S106"+Replace this use of System.out by a logger.(ŸñÒùøÿÿÿÿ8ÂÜ‹¥ú1
