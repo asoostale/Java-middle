@@ -139,3 +139,23 @@ X
 (src/enumeration/ex3/DiscountService.java,1/1/1144084ad70a5ddc2571f59851ad91b75f68ab0e
 X
 (src/enumeration/ex3/ClassGradeEx3_2.java,e/4/e49763a44a63721273012d5b409d34b14f8bfe55
+W
+'src/enumeration/ex3/EnumMethodMain.java,c/6/c687d57064ba172cbaa435ac59de22d70dd751f7
+X
+(src/enumeration/ex3/ref1/ClassGrade.java,4/7/4706ada75eb31b80dcfb1e36303a3c2a90cc6176
+O
+src/enumeration/ref2/Grade.java,f/0/f01133425b64a92ccb12a31e65601b0d9cd28f88
+Y
+)src/enumeration/ref2/DiscountService.java,a/7/a74387799253c39b9080ae9fed265fe9962aa577
+V
+&src/enumeration/ref2/EnumRefMain2.java,1/f/1f5794dd3b3455fa5500f4f4f8fdcf91747ee2fe
+O
+src/enumeration/ref3/Grade.java,1/1/11243d6bd25dd9b348a3e1b13aebe2ee70ddbc22
+Y
+)src/enumeration/ref3/DiscountService.java,5/5/551c9953a75fc2e32b65d6c9656bd9a83b571b82
+V
+&src/enumeration/ref3/EnumRefMain3.java,e/c/ec3396729678175732c552ff1888851c34bb20a1
+X
+(src/enumeration/ref3/EnumRefMain3_2.java,0/7/077fe9b5ed1c3113c1f58c028361080445abe1c2
+X
+(src/enumeration/ref3/EnumRefMain3_3.java,5/2/525ff8553927783ad7389864b515149912dc335b

@@ -1,0 +1,8 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "price".(öÜß™8™Ú÷¥ú1
+G
+java:S1481"*Remove this unused "price" local variable.(öÜß™8šÚ÷¥ú1
+L	java:S106"+Replace this use of System.out by a logger.(•Ò™Çÿÿÿÿÿ8éÿù¥ú1
+G	java:S106"+Replace this use of System.out by a logger.(ÛëÚí8Ëøú¥ú1
+G	java:S106"+Replace this use of System.out by a logger.(±¶8Ìøú¥ú1
