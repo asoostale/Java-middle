@@ -177,3 +177,5 @@ R
 "src/nested/nested/ex2/Network.java,a/e/aeeb868a8bd7f8fad6a84298d17c71a796c75d75
 V
 &src/nested/nested/ex2/NetworkMain.java,b/5/b5b0fde01207702c18cb4b572741b7b07b81805d
+W
+'src/nested/nested/inner/InnerOuter.java,b/e/be091b5d888f070f3ceb07af1b154e99e1247179

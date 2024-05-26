@@ -1,0 +1,5 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(¹ÅÏïúÿÿÿÿ8¶Šë¤û1
+L	java:S106"+Replace this use of System.out by a logger.(öÊùşÿÿÿÿ8·Šë¤û1
+S
+java:S1068"1Remove this unused "outClassValue" private field.(§øışûÿÿÿÿ8·Šë¤û1
