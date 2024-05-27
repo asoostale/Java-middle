@@ -187,3 +187,11 @@ T
 $src/nested/nested/inner/ex1/Car.java,e/2/e2a55d1aca17b9635658bc4e84c23839f66be208
 X
 (src/nested/nested/inner/ex1/CarMain.java,c/3/c3c2719ededb2f11004203cd9cd4e7cd80c7b535
+Z
+*src/nested/nested/local/LocalOuterV21.java,f/0/f033adc0b258abb715ab5d0397871d04d474755a
+Y
+)src/nested/nested/local/LocalOuterV1.java,9/1/91387908e8ae57e717e6b35146a72eb5553c2e22
+T
+$src/nested/nested/local/Printer.java,8/a/8a40bc73687009d37e31037a76c7e6edf0e5488f
+Y
+)src/nested/nested/local/LocalOuterV2.java,5/c/5c0705ac63ac151995c627367c4ae2c710a83bba
