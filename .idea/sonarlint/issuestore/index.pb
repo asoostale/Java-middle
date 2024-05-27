@@ -179,3 +179,11 @@ V
 &src/nested/nested/ex2/NetworkMain.java,b/5/b5b0fde01207702c18cb4b572741b7b07b81805d
 W
 'src/nested/nested/inner/InnerOuter.java,b/e/be091b5d888f070f3ceb07af1b154e99e1247179
+W
+'src/nested/nested/inner/ex1/Engine.java,3/3/33003c33591df30f0d721cc7999a4b4986d1cd36
+U
+%src/nested/nested/inner/ex1/Card.java,e/2/e2fb85d2937142cea58805443d26bf09599ec2d5
+T
+$src/nested/nested/inner/ex1/Car.java,e/2/e2a55d1aca17b9635658bc4e84c23839f66be208
+X
+(src/nested/nested/inner/ex1/CarMain.java,c/3/c3c2719ededb2f11004203cd9cd4e7cd80c7b535
