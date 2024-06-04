@@ -207,8 +207,6 @@ Z
 *src/exceiption/ex1/NetworkServiceV1_2.java,3/1/317fe3bd534052f35784f3aac6ba02decb6e7e2c
 Z
 *src/exceiption/ex1/NetworkServiceV1_3.java,8/c/8c6173b970e29c49a53ba34e19d06e00f4b1cb44
-b
-2src/exceiption/basic/checked/CheckedException.java,9/4/94cea3c05807345e249159f78329df7d2d6dc110
 X
 (src/exceiption/basic/checked/Client.java,2/d/2d3f697cf5388e35d54b9040f613869323edf40c
 d
@@ -219,3 +217,15 @@ b
 2src/exceiption/basic/checked/CheckedCatchMain.java,a/e/aeaec50bfd0137c81c15029a379343cfe95a41f1
 b
 2src/exceiption/basic/checked/CheckedThrowMain.java,3/b/3b7f8615cf83d1fea36d1b5970a400a60878719c
+h
+8src/exceiption/basic/unchecked/MyUnCheckedException.java,e/e/ee0d7ca881592dd1c3e8157f762e5017ae16a1ff
+Z
+*src/exceiption/basic/unchecked/Client.java,f/9/f947184d435ae6b94e2e4c829414d4bd0db77fa2
+[
++src/exceiption/basic/unchecked/Service.java,8/c/8ca12dee39a7e3a34fa0317de9789d28df15a86d
+f
+6src/exceiption/basic/unchecked/UnCheckedCatchMain.java,2/f/2fa071775150b614193d1e8212163c2234bb9da5
+f
+6src/exceiption/basic/unchecked/UnCheckedThrowMain.java,9/1/91821f60c5ce939fee2e7a1ba9e9b4f01d55557a
+W
+'src/exceiption/basic/unchecked/Abc.java,9/d/9d99496ba80594f2f79514c811c1de713fc777bb

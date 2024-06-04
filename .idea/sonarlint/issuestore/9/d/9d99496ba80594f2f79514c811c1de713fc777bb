@@ -1,0 +1,13 @@
+
+v
+java:S1104"TMake classVar a static final constant or non-public and provide accessors if needed.(¤ϊϊÿÿÿÿ8µλυώ1
+y
+java:S1104"WMake instanceVar a static final constant or non-public and provide accessors if needed.(ρ…±ÿÿÿÿÿ8µλυώ1
+P
+java:S1444".Make this "public static classVar" field final(¤ϊϊÿÿÿÿ8µλυώ1
+L	java:S106
+"+Replace this use of System.out by a logger.(Ζ £Πωÿÿÿÿ8»λυώ1
+G	java:S106"+Replace this use of System.out by a logger.(“­λ±8Όλυώ1
+L	java:S106"+Replace this use of System.out by a logger.(Ϋ“Φ¬όÿÿÿÿ8Όλυώ1
+L	java:S106"+Replace this use of System.out by a logger.(‹χ―Αώÿÿÿÿ8Ύλυώ1
+G	java:S106"+Replace this use of System.out by a logger.(ΥΊΪ8Ώλυώ1
