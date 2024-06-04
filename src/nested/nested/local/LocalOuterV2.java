@@ -1,5 +1,7 @@
 package nested.nested.local;
 
+import nested.nested.ex1.Network;
+
 public class LocalOuterV2 {
 
     private int one = 3;
@@ -30,6 +32,8 @@ public class LocalOuterV2 {
         LocalOuterV2 localOuterV1 = new LocalOuterV2();
         localOuterV1.process(3);
     }
+
+
 
 
 }
