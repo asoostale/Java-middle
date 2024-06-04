@@ -229,3 +229,9 @@ f
 6src/exceiption/basic/unchecked/UnCheckedThrowMain.java,9/1/91821f60c5ce939fee2e7a1ba9e9b4f01d55557a
 W
 'src/exceiption/basic/unchecked/Abc.java,9/d/9d99496ba80594f2f79514c811c1de713fc777bb
+\
+,src/exceiption/NetworkClientExceptionV2.java,a/4/a4c37d6e22edd961cee98767e3b50df5729528b2
+`
+0src/exceiption/ex2/NetworkClientExceptionV2.java,4/b/4b887bac9e9783ed354289cc4144f1ef0a17b609
+W
+'src/exceiption/ex2/NetworkClientV2.java,9/d/9df32376e9f99eea6468d2af3d7657b0964cd0fe
