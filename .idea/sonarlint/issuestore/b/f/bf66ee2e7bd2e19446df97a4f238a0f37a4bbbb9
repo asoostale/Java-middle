@@ -1,0 +1,10 @@
+
+u
+java:S1104
+"XMake connectError a static final constant or non-public and provide accessors if needed.(ìÌ¢Í8‘‹ÿ1
+w
+java:S1104"UMake sendError a static final constant or non-public and provide accessors if needed.(÷üıÿÿÿÿ8’‹ÿ1
+G	java:S106"+Replace this use of System.out by a logger.(µ·ÎÓ8Æçÿ1
+G	java:S106"+Replace this use of System.out by a logger.(¼õ­İ8Æçÿ1
+L	java:S106!"+Replace this use of System.out by a logger.(²¬ç¦ıÿÿÿÿ8ÚÂ’ÿ1
+L	java:S106/"+Replace this use of System.out by a logger.(“å°Üúÿÿÿÿ8ê¶“ÿ1

@@ -1,14 +1,16 @@
-package exceiption.ex4;
+package exceiption.ex5;
 
-import org.w3c.dom.CDATASection;
+import exceiption.ex4.ConnectExceptionV4;
+import exceiption.ex4.SendExceptionV4;
 
-public class NetworkClientV4 {
+public class NetworkClientV5 implements AutoCloseable {
 
     private final String address;
+
     public boolean connectError;
     public boolean sendError;
 
-    public NetworkClientV4(String address) {
+    public NetworkClientV5(String address) {
         this.address = address;
     }
 
@@ -38,5 +40,11 @@ public class NetworkClientV4 {
         if (data.equals("error2")) {
             sendError = true;
         }
+    }
+
+    @Override
+    public void close() throws Exception {
+        System.out.println("NetworkClientV5.close");
+        disconnect();
     }
 }

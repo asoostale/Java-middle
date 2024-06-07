@@ -7,4 +7,8 @@ public class SendExceptionV4 extends NetworkClientExceptionV4 {
         super(message);
         this.sendData = sendData;
     }
+
+    public String getSendData() {
+        return sendData;
+    }
 }

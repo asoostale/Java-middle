@@ -1,0 +1,10 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(²ïÚ¢ıÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
+@	java:S106"+Replace this use of System.out by a logger.(¼ø½
+@	java:S106"+Replace this use of System.out by a logger.(³º¨
+E	java:S106"+Replace this use of System.out by a logger.(ˆö°¥øÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(¡ÍÕíûÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(¶¾š¯
+P
+java:S1144"5Remove this unused private "exceptionHandler" method.(Ë£é¹şÿÿÿÿ

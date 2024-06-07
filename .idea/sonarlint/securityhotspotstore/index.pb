@@ -275,3 +275,17 @@ W
 0src/exceiption/ex4/NetworkClientExceptionV4.java,9/5/9575b6eb45165ef195c621679ec8c65d5d623cfb
 N
 src/exceiption/ex4/Exmain.java,f/b/fb7967d12ea67657997dfe3c3c4415d652bf1759
+X
+(src/exceiption/ex4/NetworkServiceV4.java,7/1/71a32cc6ae322e96fcdf903ce9e94ddfe49ce1b8
+N
+src/exceiption/ex4/MainV4.java,4/2/4276dab1af186148db410d961b2b17b20fcd396a
+U
+%src/exceiption/ex5/AutoCloseable.java,f/c/fca88bdc2b75226bf7245f240b423b82627e74b5
+W
+'src/exceiption/ex5/NetworkClientV5.java,b/f/bf66ee2e7bd2e19446df97a4f238a0f37a4bbbb9
+X
+(src/exceiption/ex5/NetworkServiceV4.java,5/8/5836b8f48b986fed106032d5122d82d3e139d83a
+X
+(src/exceiption/ex5/NetworkServiceV5.java,a/e/aecb95bc5b28877ae5285f5b6e25e53c05b72d0a
+N
+src/exceiption/ex5/MainV5.java,d/5/d519d6d8c1679084bbe89f1a08683d9a1765f785
