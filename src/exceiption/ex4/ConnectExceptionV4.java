@@ -1,6 +1,6 @@
-package exceiption.ex3.exception;
+package exceiption.ex4;
 
-public class ConnectExceptionV4 extends NetworkClientExceptionV4{
+public class ConnectExceptionV4 extends NetworkClientExceptionV4 {
 
     private final String address;
 

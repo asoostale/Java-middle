@@ -1,4 +1,4 @@
-package exceiption.ex3.exception;
+package exceiption.ex4;
 
 public class NetworkClientExceptionV4 extends RuntimeException {
 

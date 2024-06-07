@@ -1,4 +1,4 @@
-package exceiption.ex3.exception;
+package exceiption.ex4;
 
 public class SendExceptionV4 extends NetworkClientExceptionV4 {
     private final String sendData;
