@@ -1,0 +1,7 @@
+
+ž
+java:S1130"€Remove the declaration of thrown exception 'exceiption.ex2.NetworkClientExceptionV2', as it cannot be thrown from method's body.(èØÎ½8¹Å§‘þ1
+X	java:S125"<This block of commented-out lines of code should be removed.(á“Ã‘8¶òßþ1
+L	java:S106"+Replace this use of System.out by a logger.(²ïÚ¢ýÿÿÿÿ8ÞÐ¾þ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8‘öÃþ1
+G	java:S106"+Replace this use of System.out by a logger.(¼ø½8ŸÒÄþ1
