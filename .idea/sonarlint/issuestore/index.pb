@@ -281,3 +281,5 @@ N
 src/exceiption/ex5/MainV5.java,d/5/d519d6d8c1679084bbe89f1a08683d9a1765f785
 K
 src/stack/StackExample.java,4/e/4e9806e3d571da09f9dc2d0a45d52dade3f9aff5
+K
+src/queue/QueueExample.java,e/e/eebd72c69686d90149a6d90267c003f982bdc373
