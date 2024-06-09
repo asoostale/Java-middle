@@ -259,12 +259,6 @@ N
 src/exceiption/ex3/MainV3.java,3/1/314718a3b6089a18d936719dcd49b23f3f5b1aed
 Z
 *src/exceiption/ex3/NetworkServiceV3_2.java,f/e/fe9668d6a814b470f7098106dfe5983e22a53958
-j
-:src/exceiption/ex3/exception/NetworkClientExceptionV4.java,2/9/2992db4afb14531b7b0c8f4495c0a95d0a4effbb
-d
-4src/exceiption/ex3/exception/ConnectExceptionV4.java,8/4/84b11578539b8786c46d6c0cc5d3a0a04dcd3cda
-a
-1src/exceiption/ex3/exception/SendExceptionV4.java,b/0/b0f6674e7147cff2f1b780b88135c2803baa5de0
 W
 'src/exceiption/ex4/SendExceptionV4.java,c/c/ccd0ba3e6af99eecab760ed7db9fb7fa4eeb02c3
 Z
@@ -273,8 +267,6 @@ W
 'src/exceiption/ex4/NetworkClientV4.java,a/6/a65e101b0dc02a02a4ec9541ff3fe73e4e60a617
 `
 0src/exceiption/ex4/NetworkClientExceptionV4.java,9/5/9575b6eb45165ef195c621679ec8c65d5d623cfb
-N
-src/exceiption/ex4/Exmain.java,f/b/fb7967d12ea67657997dfe3c3c4415d652bf1759
 X
 (src/exceiption/ex4/NetworkServiceV4.java,7/1/71a32cc6ae322e96fcdf903ce9e94ddfe49ce1b8
 N
@@ -284,8 +276,8 @@ U
 W
 'src/exceiption/ex5/NetworkClientV5.java,b/f/bf66ee2e7bd2e19446df97a4f238a0f37a4bbbb9
 X
-(src/exceiption/ex5/NetworkServiceV4.java,5/8/5836b8f48b986fed106032d5122d82d3e139d83a
-X
 (src/exceiption/ex5/NetworkServiceV5.java,a/e/aecb95bc5b28877ae5285f5b6e25e53c05b72d0a
 N
 src/exceiption/ex5/MainV5.java,d/5/d519d6d8c1679084bbe89f1a08683d9a1765f785
+K
+src/stack/StackExample.java,4/e/4e9806e3d571da09f9dc2d0a45d52dade3f9aff5
